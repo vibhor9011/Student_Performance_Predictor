@@ -158,5 +158,13 @@ This is an academic prototype. The generated dataset and model should not be use
 - Real-world anonymized dataset
 - Multi-class performance prediction
 
+## SCREENSHOTS
+TRAIN MODEL
+<img width="1614" height="335" alt="Screenshot 2026-09-05 212042" src="https://github.com/user-attachments/assets/7e0f5a89-f753-4700-9886-9ea69410f888" />
+PREDICTION
+<img width="1461" height="293" alt="Screenshot 2026-09-05 211416" src="https://github.com/user-attachments/assets/d59a9ed6-3411-4de9-8ea9-070264fe78f2" />
+
+
 ## Author
-**Vibhor**
+**Vibhor Srivastava**
+25MIM10093
