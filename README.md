@@ -1,6 +1,6 @@
 # Student Performance Predictor
 
-## AIML Mini Project
+## FUNDAMENTALS IN AIML  Project
 
 **Student Performance Predictor** is a supervised machine-learning application that predicts whether a student is likely to **PASS or FAIL** using academic and lifestyle-related attributes.
 
