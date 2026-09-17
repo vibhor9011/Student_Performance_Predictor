@@ -22,11 +22,11 @@ if __name__=="__main__":
     print("\n===== STUDENT PERFORMANCE PREDICTOR =====")
     try:
         p=StudentPerformancePredictor(); 
-        r=p.predict(number("Study hours per day: "),
-        number("Attendance percentage: "),
-        number("Previous marks percentage: "),
-        number("Assignment score percentage: "),
-        number("Sleep hours per day: ")); 
-        print("\nPredicted Result:",r["result"]); print(f"Confidence: {r['confidence']:.2f}%")
+        r=p.predict(number("Study hours per day:"),
+        number("Attendance percentage:"),
+        number("Previous marks percentage:"),
+        number("Assignment score percentage:"),
+        number("Sleep hours per day:")); 
+        print("\nPredicted Result:",r["result"]); print(f"Confidence:{r['confidence']:.2f}%")
     except (ValueError,FileNotFoundError) as e: 
         print("\nError:",e)
