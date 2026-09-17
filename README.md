@@ -160,8 +160,9 @@ This is an academic prototype. The generated dataset and model should not be use
 TRAIN MODEL
 <img width="1140" height="324" alt="image" src="https://github.com/user-attachments/assets/a4e364c3-a883-4427-aba9-38dec7363084" />
 
-PREDICTION
+##PREDICTION
 <img width="456" height="190" alt="image" src="https://github.com/user-attachments/assets/8a9762f9-2684-4285-b2b3-833007d2c208" />
+
 
 
 ## Author
