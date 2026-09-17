@@ -114,14 +114,14 @@ The prediction program asks for the five input values and displays the predicted
 ## Example
 ```text
 ===== STUDENT PERFORMANCE PREDICTOR =====
-Study hours per day: 6
-Attendance percentage: 85
-Previous marks percentage: 78
-Assignment score percentage: 80
-Sleep hours per day: 7
+Study hours per day:5
+Attendance percentage:85
+Previous marks percentage:78
+Assignment score percentage:80
+Sleep hours per day:7
 
-Predicted Result: PASS
-Confidence: ...
+Predicted Result:PASS
+Confidence:78.95%
 ```
 
 ## Testing
@@ -158,9 +158,10 @@ This is an academic prototype. The generated dataset and model should not be use
 
 ## SCREENSHOTS
 TRAIN MODEL
-<img width="1614" height="335" alt="Screenshot 2026-09-05 212042" src="https://github.com/user-attachments/assets/7e0f5a89-f753-4700-9886-9ea69410f888" />
+<img width="1140" height="324" alt="image" src="https://github.com/user-attachments/assets/a4e364c3-a883-4427-aba9-38dec7363084" />
+
 PREDICTION
-<img width="1461" height="293" alt="Screenshot 2026-09-05 211416" src="https://github.com/user-attachments/assets/d59a9ed6-3411-4de9-8ea9-070264fe78f2" />
+<img width="456" height="190" alt="image" src="https://github.com/user-attachments/assets/8a9762f9-2684-4285-b2b3-833007d2c208" />
 
 
 ## Author
