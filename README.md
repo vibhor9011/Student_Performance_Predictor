@@ -115,9 +115,9 @@ The prediction program asks for the five input values and displays the predicted
 ```text
 ===== STUDENT PERFORMANCE PREDICTOR =====
 Study hours per day:5
-Attendance percentage:85
-Previous marks percentage:78
-Assignment score percentage:80
+Attendance percentage:75
+Previous marks percentage:85
+Assignment score percentage:85
 Sleep hours per day:7
 
 Predicted Result:PASS
